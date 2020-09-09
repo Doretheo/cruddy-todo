@@ -58,7 +58,7 @@ $(() => {
 
   // Initialization //////////////////////////////////////////////////////////////
 
-  console.log('CRUDdy Todo client is running the browser');
+  console.log('CRUDdy Todo client is running!!');
   Todo.readAll(addAllTodos);
 
 });
